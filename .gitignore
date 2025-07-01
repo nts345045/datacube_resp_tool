@@ -1,5 +1,8 @@
+# Ignore virtual environment files
 cube_resp_tool
+# Ignore simlink to VENV activate script
 activate_venv
+# Ignore example output
 example_output
 # Byte-compiled / optimized / DLL files
 __pycache__/
