@@ -1,0 +1,10 @@
+network,station,location,component_code,logger_name,logger_channel,sampling_rate,gain,latitude,longitude,elevation_m,depth_m,azimuth,dip
+UW,SUMIT,,Z,c0AUB,pri0,200,16,72.58,-38.45,3216.,0.5,0.,-90.
+UW,SUMIT,,1,c0AUB,pri1,200,16,72.58,-38.45,3216.,0.5,5.,0.
+UW,SUMIT,,2,c0AUB,pri2,200,16,72.58,-38.45,3216.,0.5,95.,0.
+UW,SUMIT,01,Z,c0AU7,pri0,200,16,72.58,-38.45,3216.,0.5,0.,-90.
+UW,SUMIT,01,1,c0AU7,pri1,200,16,72.58,-38.45,3216.,0.5,5.,0.
+UW,SUMIT,1,2,c0AU7,pri2,200,16,72.58,-38.45,3216.,0.5,95.,0.
+UW,SMIT2,,Z,c0AUA,pri0,200,16,72.58,-38.55,3201.,0.5,0.,-90.
+UW,SMIT2,,1,c0AUA,pri1,200,16,72.58,-38.55,3201.,0.5,5.,0.
+UW,SMIT2,,2,c0AUA,pri2,200,16,72.58,-38.55,3201.,0.5,95.,0.
