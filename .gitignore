@@ -1,5 +1,6 @@
 cube_resp_tool
 activate_venv
+example_output
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
