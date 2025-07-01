@@ -22,7 +22,7 @@ on its use (see `python3 datacube_resp_tool.py --help`). The `make_venv.sh` also
 and example of the script's invocation.
 
 ## Citation
-This toolbox wraps the [ObsPy](https://docs.obspy.org) library and makes use of the 
+This toolbox wraps the [ObsPy](https://docs.obspy.org) package and makes use of the 
 [Nominal Response Library](https://ds.iris.edu/ds/nrl/). 
 Be sure to at least cite these resources if you find content in this repository useful.
 
