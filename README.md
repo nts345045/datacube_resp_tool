@@ -10,6 +10,7 @@ This repository is distributed under a Creative Commons 4.0 By Attribution licen
 ## Dependencies
 Beyond `python3` this repository requires the `pandas` and `obspy` packages to operate.  
 
+## Environment
 This repository includes a `make_venv.sh` that builds a Python3 virtual environment in
 the repository directory, activates it, and runs the included example. If you use this
 script, it also populates a simbolic link in the repository root directory as a shortcut
