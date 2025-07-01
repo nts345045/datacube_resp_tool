@@ -5,9 +5,7 @@ Tool for building StationXML files for DataCube deployments
 Nathan T. Stevens (Pacific Northwest Seismic Network)
 
 ## License
-This code is distributed under a Creative Commons 4.0 By Attribution license. 
-E.g., Inline citation (Stevens, 2025)
-Citation of a GitHub repository: 
+This repository is distributed under a Creative Commons 4.0 By Attribution license. 
 
 ## Dependencies
 Beyond `python3` this repository requires the `pandas` and `obspy` packages to operate.  
