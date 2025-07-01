@@ -15,6 +15,9 @@ Beyond `python3` this repository requires the `pandas` and `obspy` packages to o
 This repository includes a `make_venv.sh` that builds a Python3 virtual environment in
 the repository directory, activates it, and runs the included example.
 
+You can also use this script without building the VENV if you already have an (virtual)
+environment installed that meets the dependency requirements.
+
 ## General Use
 The `datacube_resp_tool.py` script includes a command line wrapper and brief documentation
 on its use (see `python3 datacube_resp_tool.py --help`). The `make_venv.sh` also includes
