@@ -11,7 +11,11 @@ This repository is distributed under a Creative Commons 4.0 By Attribution licen
 Beyond `python3` this repository requires the `pandas` and `obspy` packages to operate.  
 
 This repository includes a `make_venv.sh` that builds a Python3 virtual environment in
-the repository directory, activates it, and runs the included example.
+the repository directory, activates it, and runs the included example. If you use this
+script, it also populates a simbolic link in the repository root directory as a shortcut
+to the VENV's `activate` script for subsequent use / convenience. Simply run `source activate_venv`
+to (re)activate the VENV. To deactivate, simply run `deactivate` from anywhere in a terminal
+currently running the VENV.
 
 You can also use this script without building the VENV if you already have an (virtual)
 environment installed that meets the dependency requirements.
