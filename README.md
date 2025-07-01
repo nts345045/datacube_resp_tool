@@ -23,3 +23,9 @@ The `datacube_resp_tool.py` script includes a command line wrapper and brief doc
 on its use (see `python3 datacube_resp_tool.py --help`). The `make_venv.sh` also includes
 and example of the script's invocation.
 
+## Citation
+This toolbox wraps the [ObsPy](https://docs.obspy.org) library and makes use of the 
+[Nominal Response Library](https://ds.iris.edu/ds/nrl/). 
+Be sure to at least cite these resources if you find content in this repository useful.
+
+If you find specific aspects or functionalities of this repository to be useful, also consider citing it with the attached *.cff file.
